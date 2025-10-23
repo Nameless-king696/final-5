@@ -1,0 +1,928 @@
+{
+  "generatedAt": "2025-10-10T18:08:23.740Z",
+  "tree": {
+    "nub": {
+      "children": {
+        "year5": {
+          "children": {
+            "emeregncy": {
+              "children": {
+                "medicine": {
+                  "children": {
+                    "revision": {
+                      "children": {},
+                      "resources": {
+                        "collectionQuizzes": [
+                          {
+                            "id": "emergency-medicine",
+                            "title": "Emergency Medicine"
+                          }
+                        ]
+                      },
+                      "hasIndex": false,
+                      "label": "Revision",
+                      "isBranch": true
+                    }
+                  },
+                  "hasIndex": false,
+                  "label": "Medicine",
+                  "isBranch": true
+                },
+                "revision": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "all-you-need",
+                        "title": "all you need"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Revision",
+                  "isBranch": true
+                },
+                "surgery": {
+                  "children": {
+                    "revision": {
+                      "children": {},
+                      "resources": {
+                        "collectionQuizzes": [
+                          {
+                            "id": "emergency-surgery",
+                            "title": "Emergency Surgery"
+                          }
+                        ]
+                      },
+                      "hasIndex": false,
+                      "label": "Revision",
+                      "isBranch": true
+                    }
+                  },
+                  "hasIndex": false,
+                  "label": "Surgery",
+                  "isBranch": true
+                }
+              },
+              "hasIndex": false,
+              "label": "Emeregncy",
+              "isBranch": true
+            },
+            "family-medicine": {
+              "children": {
+                "revision": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "comprehensive-questions",
+                        "title": "Comprehensive Questions"
+                      },
+                      {
+                        "id": "family-medicine-revision",
+                        "title": "Family Medicine Revision"
+                      },
+                      {
+                        "id": "lecture-qs",
+                        "title": "Lecture Qs"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Revision",
+                  "isBranch": true
+                }
+              },
+              "hasIndex": false,
+              "label": "Family Medicine",
+              "isBranch": true
+            },
+            "gynecology": {
+              "children": {
+                "basic-operative-gynecology": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "basic-operative-gynecology-nadine",
+                        "title": "Basic & Operative Gynecology - Dr. Nadine"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Basic Operative Gynecology",
+                  "isBranch": true
+                },
+                "diagnostic-procedures-and-operations-in-gynecology": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "diagnostic-procedures-and-operations-in-gynecology",
+                        "title": "Diagnostic Procedures and Operations in Gynecology"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Diagnostic Procedures And Operations In Gynecology",
+                  "isBranch": true
+                },
+                "endocrinology": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "endocrinology-nadine",
+                        "title": "Endocrinology - Dr. Nadine"
+                      },
+                      {
+                        "id": "gynecologic-endocrinology",
+                        "title": "GYNECOLOGIC ENDOCRINOLOGY"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Endocrinology",
+                  "isBranch": true
+                },
+                "female-genital-infections": {
+                  "children": {
+                    "gynecologic-infections": {
+                      "children": {},
+                      "hasIndex": true,
+                      "label": "Gynecologic Infections",
+                      "summary": "This lesson covers the normal vaginal flora and pH, focusing on Lactobacillus acidophilus, which maintains an acidic environment (pH 3.8-4.5). It explores natural defenses, predisposing factors for infections, and details common types of vaginitis, cervicitis, and Pelvic Inflammatory Disease (PID).",
+                      "contentPath": "content/lessons/nub__year5__gynecology__female-genital-infections__gynecologic-infections.json"
+                    }
+                  },
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "female-genital-infections",
+                        "title": "Female Genital Infections"
+                      },
+                      {
+                        "id": "gynecological-infections-nadine",
+                        "title": "Gynecological Infections - Dr. Nadine"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Female Genital Infections",
+                  "isBranch": true
+                },
+                "general-gynecology": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "general-gynecology-nadine",
+                        "title": "General Gynecology - Dr. Nadine"
+                      },
+                      {
+                        "id": "general-gynecology",
+                        "title": "Kasr Al Ainy"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "General Gynecology",
+                  "isBranch": true
+                },
+                "oncology": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "gynecologic-oncology",
+                        "title": "Gynecologic Oncology"
+                      },
+                      {
+                        "id": "oncology-nadine",
+                        "title": "Oncology - Dr. Nadine"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Oncology",
+                  "isBranch": true
+                },
+                "revision": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "rounds-questions",
+                        "title": "Rounds"
+                      },
+                      {
+                        "id": "vip",
+                        "title": "VIP"
+                      }
+                    ],
+                    "flashcardDecks": [
+                      {
+                        "id": "gynaecology-revision",
+                        "title": "Gynaecology Revision"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Revision",
+                  "isBranch": true
+                }
+              },
+              "hasIndex": false,
+              "label": "Gynecology",
+              "isBranch": true
+            },
+            "obstetrics": {
+              "children": {
+                "3rd-stage-complications": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "3rd-stage-complications",
+                        "title": "3rd Stage Complications"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "3rd Stage Complications",
+                  "isBranch": true
+                },
+                "basic-obstetrics": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "basic-obstetrics",
+                        "title": "BASIC OBSTETRICS"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Basic Obstetrics",
+                  "isBranch": true
+                },
+                "bleeding-in-late-pregnancy": {
+                  "children": {
+                    "antepartum-hemorrhage-aph": {
+                      "children": {},
+                      "hasIndex": true,
+                      "label": "Antepartum Hemorrhage",
+                      "summary": "Antepartum Hemorrhage (APH) is bleeding that occurs after fetal viability until delivery (between 24-40 weeks). The bleeding is mostly maternal in origin, but less commonly can be fetal (vasa previa), which rapidly affects fetal wellbeing.",
+                      "contentPath": "content/lessons/nub__year5__obstetrics__bleeding-in-late-pregnancy__antepartum-hemorrhage-aph.json"
+                    }
+                  },
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "bleeding-in-late-pregnancy",
+                        "title": "BLEEDING IN LATE PREGNANCY"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Bleeding In Late Pregnancy",
+                  "isBranch": true
+                },
+                "early-obstetric-complications": {
+                  "children": {
+                    "bleeding-in-early-pregnancy": {
+                      "children": {},
+                      "hasIndex": true,
+                      "label": "Bleeding In Early Pregnancy",
+                      "summary": "",
+                      "contentPath": "content/lessons/nub__year5__obstetrics__early-obstetric-complications__bleeding-in-early-pregnancy.json"
+                    }
+                  },
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "early-obstetric-complications",
+                        "title": "Early Obstetric Complications"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Early Obstetric Complications",
+                  "isBranch": true
+                },
+                "fetus-and-neonate": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "fetus-and-neonate",
+                        "title": "Fetus and Neonate"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Fetus And Neonate",
+                  "isBranch": true
+                },
+                "medical-disorders-in-pregnancy": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "medical-disorders-in-pregnancy",
+                        "title": "Medical Disorders in Pregnancy"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Medical Disorders In Pregnancy",
+                  "isBranch": true
+                },
+                "normal-and-abnormal-labor-and-delivery": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "normal-and-abnormal-labor-and-delivery",
+                        "title": "NORMAL AND ABNORMAL LABOR AND DELIVERY"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Normal And Abnormal Labor And Delivery",
+                  "isBranch": true
+                },
+                "obstetric-injuries": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "obstetric-injuries",
+                        "title": "OBSTETRIC INJURIES"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Obstetric Injuries",
+                  "isBranch": true
+                },
+                "revision": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "round-mcqs",
+                        "title": "Round MCQs"
+                      },
+                      {
+                        "id": "vip",
+                        "title": "VIP"
+                      }
+                    ],
+                    "flashcardDecks": [
+                      {
+                        "id": "obstetrics",
+                        "title": "Obstetrics Flashcards"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Revision",
+                  "isBranch": true
+                }
+              },
+              "hasIndex": false,
+              "label": "Obstetrics",
+              "isBranch": true
+            },
+            "pediatrics": {
+              "children": {
+                "cardiology": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "kaf",
+                        "title": "KAF"
+                      },
+                      {
+                        "id": "pbl-of-cardiology",
+                        "title": "PBL of Cardiology"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Cardiology",
+                  "isBranch": true
+                },
+                "emergency": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "kaf",
+                        "title": "KAF"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Emergency",
+                  "isBranch": true
+                },
+                "endocrine": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "kaf",
+                        "title": "KAF"
+                      },
+                      {
+                        "id": "pbl-of-endocrine",
+                        "title": "PBL of Endocrine"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Endocrine",
+                  "isBranch": true
+                },
+                "genetics": {
+                  "children": {},
+                  "hasIndex": false,
+                  "label": "Genetics"
+                },
+                "git": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "kaf",
+                        "title": "KAF"
+                      },
+                      {
+                        "id": "pbl-of-git",
+                        "title": "PBL of GIT"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Git",
+                  "isBranch": true
+                },
+                "growth-and-development": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "kaf",
+                        "title": "KAF"
+                      },
+                      {
+                        "id": "pbl-of-growth",
+                        "title": "PBL of Growth & Development"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Growth And Development",
+                  "isBranch": true
+                },
+                "hematology": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "kaf",
+                        "title": "KAF"
+                      },
+                      {
+                        "id": "pbl-of-hematology",
+                        "title": "PBL of Hematology"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Hematology",
+                  "isBranch": true
+                },
+                "hepatology": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "kaf",
+                        "title": "KAF"
+                      },
+                      {
+                        "id": "pbl-of-hepatology",
+                        "title": "PBL of Hepatology"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Hepatology",
+                  "isBranch": true
+                },
+                "infection-and-vaccination": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "kaf",
+                        "title": "KAF"
+                      },
+                      {
+                        "id": "pbl-of-infection-and-vaccination",
+                        "title": "PBL of Infection and Vaccination"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Infection And Vaccination",
+                  "isBranch": true
+                },
+                "neonatology": {
+                  "children": {
+                    "neonatal-jaundice": {
+                      "children": {},
+                      "hasIndex": false,
+                      "label": "Neonatal Jaundice"
+                    }
+                  },
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "kaf",
+                        "title": "KAF"
+                      },
+                      {
+                        "id": "neonatology-bank",
+                        "title": "Neonatology Bank"
+                      },
+                      {
+                        "id": "pbl-of-neonatology",
+                        "title": "PBL of Neonatology"
+                      }
+                    ]
+                  },
+                  "hasIndex": true,
+                  "label": "Neonatology Branch",
+                  "summary": "This section covers topics related to newborn infants, including jaundice and other neonatal conditions.",
+                  "contentPath": "content/lessons/nub__year5__pediatrics__neonatology.json",
+                  "isBranch": true
+                },
+                "nephrology": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "kaf",
+                        "title": "KAF"
+                      },
+                      {
+                        "id": "pbl-of-nephrology",
+                        "title": "PBL of Nephrology"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Nephrology",
+                  "isBranch": true
+                },
+                "neurology": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "kaf",
+                        "title": "KAF"
+                      },
+                      {
+                        "id": "pbl-of-neurology",
+                        "title": "PBL of Neurology"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Neurology",
+                  "isBranch": true
+                },
+                "nutrition": {
+                  "children": {
+                    "malnutrition": {
+                      "children": {},
+                      "hasIndex": true,
+                      "label": "Principles of Malnutrition",
+                      "summary": "An overview of the causes and classifications of malnutrition.",
+                      "contentPath": "content/lessons/nub__year5__pediatrics__nutrition__malnutrition.json"
+                    }
+                  },
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "kaf",
+                        "title": "KAF"
+                      },
+                      {
+                        "id": "pbl-of-nutrition",
+                        "title": "PBL of Nutrition"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Nutrition",
+                  "isBranch": true
+                },
+                "respiratory": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "pbl-of-respiratory-and-allergy",
+                        "title": "PBL of Respiratory & Allergy"
+                      },
+                      {
+                        "id": "respiratory-and-allergy-kaf",
+                        "title": "Respiratory and allergy KAF"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Respiratory",
+                  "isBranch": true
+                },
+                "rheumatology": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "kaf",
+                        "title": "KAF"
+                      },
+                      {
+                        "id": "pbl-of-rheumatology",
+                        "title": "PBL of Rheumatology"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Rheumatology",
+                  "isBranch": true
+                }
+              },
+              "hasIndex": false,
+              "label": "Pediatrics",
+              "isBranch": true
+            },
+            "psychiatry": {
+              "children": {
+                "revision": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "all-in-one",
+                        "title": "All In One"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Revision",
+                  "isBranch": true
+                }
+              },
+              "hasIndex": false,
+              "label": "Psychiatry",
+              "isBranch": true
+            },
+            "public-health": {
+              "children": {
+                "adolescents-health": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "adolescents-health",
+                        "title": "Adolescent's Health"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Adolescents Health",
+                  "isBranch": true
+                },
+                "arthropod-borne-diseases": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "arthropod-borne-diseases",
+                        "title": "Arthropod-Borne Diseases Quiz"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Arthropod Borne Diseases",
+                  "isBranch": true
+                },
+                "contact-infections": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "contact-infections",
+                        "title": "Contact Infections Quiz"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Contact Infections",
+                  "isBranch": true
+                },
+                "demography": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "demography",
+                        "title": "Demography"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Demography",
+                  "isBranch": true
+                },
+                "elderly-health": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "elderly-health",
+                        "title": "Elderly(Geriatric) Health"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Elderly Health",
+                  "isBranch": true
+                },
+                "enviromental": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "enviromental",
+                        "title": "Environmental Health"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Enviromental",
+                  "isBranch": true
+                },
+                "food-borne-infections": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "food-borne-infections",
+                        "title": "Food-Borne Infections Quiz"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Food Borne Infections",
+                  "isBranch": true
+                },
+                "general-epidemiology": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "general-epidemiology",
+                        "title": "General Epidemiology "
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "General Epidemiology",
+                  "isBranch": true
+                },
+                "health-system": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "health-system",
+                        "title": "Health System Quiz"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Health System",
+                  "isBranch": true
+                },
+                "maternal-and-child-health": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "maternal-and-child-health",
+                        "title": "Maternal and Child Health"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Maternal And Child Health",
+                  "isBranch": true
+                },
+                "measurements-of-health": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "measurements-of-health",
+                        "title": "Measurements of Health"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Measurements Of Health",
+                  "isBranch": true
+                },
+                "non-communicable-diseases": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "non-communicable-diseases",
+                        "title": "Non-Communicable Diseases"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Non Communicable Diseases",
+                  "isBranch": true
+                },
+                "occupational-health": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "occupational-health",
+                        "title": "Occupational Health "
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Occupational Health",
+                  "isBranch": true
+                },
+                "primary-health-care": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "primary-health-care",
+                        "title": "Primary Health Care"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "Primary Health Care",
+                  "isBranch": true
+                },
+                "school-health": {
+                  "children": {},
+                  "resources": {
+                    "collectionQuizzes": [
+                      {
+                        "id": "school-health",
+                        "title": "School Health"
+                      }
+                    ]
+                  },
+                  "hasIndex": false,
+                  "label": "School Health",
+                  "isBranch": true
+                }
+              },
+              "hasIndex": false,
+              "label": "Public Health",
+              "isBranch": true
+            }
+          },
+          "hasIndex": false,
+          "label": "Year5",
+          "isBranch": true
+        }
+      },
+      "name": "NUB",
+      "hasIndex": false,
+      "label": "Nub",
+      "isBranch": true
+    }
+  }
+}
