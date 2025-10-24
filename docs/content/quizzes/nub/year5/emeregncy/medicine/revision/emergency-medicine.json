@@ -1,363 +1,193 @@
 {
-  "title": "Emergency Medicine",
+  "title": "Cell Histology MCQs",
   "questions": [
     {
-      "stem": "انا عبده عطيه",
+      "stem": "What is considered the structural and functional unit of the body?",
       "options": [
-        "Acidosis.",
-        "Allergic reaction.",
-        "Fever.",
-        "Allergic reaction."
-      ],
-      "correct": 0
-    },
-    {
-      "stem": "Changes in electrocardiography of patients with pulmonary embolism include:",
-      "options": [
-        "an S wave in lead V1",
-        "a q wave in lead III",
-        "new onset of left bundle branch block",
-        "all the above"
-      ],
-      "correct": 3
-    },
-    {
-      "stem": "Patients with pulmonary embolism involving the pulmonary artery have the following EXCEPT:",
-      "options": [
-        "high D-dimer level",
-        "increased pulmonary resistance leading to right sided heart failure",
-        "hypoxia",
-        "hypercapnea"
-      ],
-      "correct": 3
-    },
-    {
-      "stem": "In hypertensive emergency the initial aim is to decrease diastolic pressure by 10% in the first hour and additional 15% within 3-12 hours. The only two exceptions for rapid lowering of BP include:",
-      "options": [
-        "pulmonary edema",
-        "cardiac ischemia",
-        "aortic dissection",
-        "none of above"
+        "Tissue",
+        "Organ",
+        "Cell",
+        "Nucleus"
       ],
       "correct": 2
     },
     {
-      "stem": "A patient presenting with acute dyspnea to the emergency, his initial assessment revealed a high B-type natriuretic peptide (150 pg/ml). The following cause is suspected for his dyspnea:",
+      "stem": "The cytoplasm is composed of all except:",
       "options": [
-        "chronic bronchitis",
-        "interstitial pulmonary fibrosis",
-        "overdose of opiate",
-        "heart failure"
-      ],
-      "correct": 3
-    },
-    {
-      "stem": "The possibility of cervical spine injury should be considered in which of the following con-dition:",
-      "options": [
-        "Presence of maxillofacial trauma",
-        "Cervical spine spondylosis.",
-        "Fracture base of the skull.",
-        "Surgical emphysema of the neck."
-      ],
-      "correct": 0
-    },
-    {
-      "stem": "The following is an indication for oxygen therapy:",
-      "options": [
-        "SpO2 < 90%",
-        "excessive work of breathing",
-        "PaO2 < 60 mmHg",
-        "all the above"
-      ],
-      "correct": 3
-    },
-    {
-      "stem": "Regarding full thickness skin grafts which of the following is correct?",
-      "options": [
-        "It has better survival rate than split thickness grafts.",
-        "It has better cosmetic result than split thickness grafts",
-        "It has high tendency of contracture.",
-        "Donor site heals spontaneously."
-      ],
-      "correct": 1
-    },
-    {
-      "stem": "Signs of lateralization include the following EXCEPT:",
-      "options": [
-        "generalized seizure",
-        "Jacksonian fits",
-        "tilting of head to one side",
-        "unequal pupils"
-      ],
-      "correct": 0
-    },
-    {
-      "stem": "Regarding ATLS for trauma, which of the following belong to the 2ry survey?",
-      "options": [
-        "Hemothorax.",
-        "Assessment of fracture pelvis.",
-        "Assessment of airways.",
-        "Assessment of hypovolemia."
-      ],
-      "correct": 1
-    },
-    {
-      "stem": "In maintaining normal subjects, pH of blood is maintained thanks to:",
-      "options": [
-        "the kidney has no role in acid base regulation",
-        "reabsorption of ~ 80% of HCO3 in the proximal renal tubules",
-        "reabsorption of H+ in the proximal renal tubules",
-        "reabsorption of ~ 80% of HCO3 in the distal renal tubules"
-      ],
-      "correct": 1
-    },
-    {
-      "stem": "Septic shock :",
-      "options": [
-        "is a type of hypovolemic shock",
-        "the patient is flushed and warm",
-        "is triggered by IgE – mediated release of histamine",
-        "all the above"
-      ],
-      "correct": 1
-    },
-    {
-      "stem": "The drug used as treatment of choice for FMF is:",
-      "options": [
-        "pulse steroids for 72 hours",
-        "colchicine",
-        "indomethacin",
-        "high dose acetylsalicylic acid"
-      ],
-      "correct": 1
-    },
-    {
-      "stem": "A patient presented to the emergency with loss of consciousness, his initial physical examination revealed bilateral constricted pupils. The following is a possible cause for his condition:",
-      "options": [
-        "myxedema",
-        "uncal herniation with compression of 3rd cranial nerve",
-        "atropine poisoning",
-        "pontine hemorrhage"
-      ],
-      "correct": 3
-    },
-    {
-      "stem": "Patients with familial Mediterranean fever:",
-      "options": [
-        "ECG may reveal diffuse ST-segment elevation",
-        "diagnosis relies on specific antibody titer",
-        "present with dull abdominal pain without rigidity",
-        "genetic testing showing mutation of MEFV gene is included in major Tel-Hashomer criteria for diagnosis"
-      ],
-      "correct": 3
-    },
-    {
-      "stem": "In patients presenting with hematemesis:",
-      "options": [
-        "is only diagnostic with no therapeutic role",
-        "is done immediately after resuscitation and hemodynamic stabilization",
-        "upper endoscopy is the method of choice for diagnosis of perforated peptic ulcer",
-        "all the above"
-      ],
-      "correct": 1
-    },
-    {
-      "stem": "Non-cardiopulmonary causes for dyspnea include:",
-      "options": [
-        "severe anemia",
-        "panic disorders",
-        "diabetic ketoacidosis",
-        "all the above"
-      ],
-      "correct": 3
-    },
-    {
-      "stem": "The mode of ventilation suitable for a patient in coma with respiratory center depression is:",
-      "options": [
-        "continuous positive airway pressure",
-        "controlled mechanical ventilation",
-        "pressure support ventilation",
-        "all the above"
-      ],
-      "correct": 1
-    },
-    {
-      "stem": "Regarding the proliferation phase of wound healing, what is the correct statement is?",
-      "options": [
-        "Platelet derived growth factor, tumour necrosis factor- alpha, interleukin-I.",
-        "Deposition of collagen in the wound.",
-        "Macrophages play an important role in phagocytosis and wound debridement.",
-        "Endothelial cells proliferate from the intact venules to form new capillary buds."
-      ],
-      "correct": 3
-    },
-    {
-      "stem": "A 30-year- old patient taking blood transfusion. Few minutes later he started to complain of chest pain, dyspnea. On examination his pulse is 120/ minute, blood pressure: 80/60, the patient is oliguric with dark urine. The best treatment is:",
-      "options": [
-        "Renal dialysis",
-        "IV fluids and corticosteroids.",
-        "Stop transfusion",
-        "Mechanical ventilation."
+        "Cytosol",
+        "Organelles",
+        "Nucleus",
+        "Inclusions"
       ],
       "correct": 2
     },
     {
-      "stem": "A patient whose arterial blood gases reveal pH 7.25, PaCO2 50, HCO3 25 has:",
+      "stem": "The glycocalyx is composed of:",
       "options": [
-        "respiratory acidosis",
-        "metabolic alkalosis",
-        "metabolic acidosis",
-        "respiratory alkalosis"
-      ],
-      "correct": 0
-    },
-    {
-      "stem": "An artificial airway, like an endotracheal tube, is used in the following type of ventilation.",
-      "options": [
-        "Positive Pressure",
-        "Negative pressure"
-      ],
-      "correct": 0
-    },
-    {
-      "stem": "Pressure is applied to the abdomen and thorax to draw air into the lungs through the upper airway in the following type of ventilation.",
-      "options": [
-        "Positive Pressure",
-        "Negative pressure"
+        "Cholesterol",
+        "Glycoproteins and glycolipids",
+        "Phospholipids only",
+        "Peripheral proteins"
       ],
       "correct": 1
     },
     {
-      "stem": "Iron lung ventilators used after the polio epidemics in the first half of the 20th century belong to...",
+      "stem": "The trilaminar structure of the cell membrane is best seen by:",
       "options": [
-        "Positive Pressure Ventilation",
-        "Negative pressure Ventilation"
-      ],
-      "correct": 1
-    },
-    {
-      "stem": "One of the following modes of ventilation “locks out” the patient's efforts to breathe.",
-      "options": [
-        "Controlled Mandatory Ventilation",
-        "Synchronous Intermittent Mandatory Ventilation",
-        "Assist Control Mode",
-        "Pressure Control Mode"
-      ],
-      "correct": 0
-    },
-    {
-      "stem": "One of the following modes of ventilation has the risk of the patient getting respiratory alkalosis.",
-      "options": [
-        "Controlled Mandatory Ventilation",
-        "Synchronous Intermittent Mandatory Ventilation",
-        "Assist Control Mode",
-        "Pressure Control Mode"
+        "Light microscope",
+        "Silver stain",
+        "Electron microscope",
+        "Fluorescence microscope"
       ],
       "correct": 2
     },
     {
-      "stem": "The mode of ventilation which allows the patient to breathe spontaneously at his or her own respiratory rate and depth between the ventilator breaths is...",
+      "stem": "The hydrophobic tails of phospholipids in the cell membrane face:",
       "options": [
-        "Controlled Mandatory Ventilation",
-        "Synchronous Intermittent Mandatory Ventilation",
-        "Assist Control Mode",
-        "Pressure Control Mode"
+        "Outside of the membrane",
+        "Cytoplasm",
+        "Extracellular space",
+        "Each other (towards the inside of the bilayer)"
       ],
-      "correct": 1
+      "correct": 3
     },
     {
-      "stem": "Minute ventilation is equal to...",
+      "stem": "Which of the following proteins are embedded within the phospholipid bilayer?",
       "options": [
-        "FiO2 X PEEP",
-        "FiO2/PEEP",
-        "Tidal Volume X Respiratory Rate",
-        "Tidal Volume/Respiratory Rate"
+        "Peripheral proteins",
+        "Extrinsic proteins",
+        "Integral (intrinsic) proteins",
+        "Enzymes"
       ],
       "correct": 2
     },
     {
-      "stem": "What are the Ventilator Parameters adjusted to maintain the optimum Minute Ventilation?",
+      "stem": "What is the main function of mitochondria?",
       "options": [
-        "FiO2 and PEEP",
-        "Tidal Volume and Respiratory Rate"
+        "Protein synthesis",
+        "Detoxification",
+        "Energy production",
+        "DNA replication"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
-      "stem": "Which are the Ventilator Parameters adjusted to maintain the optimum oxygenation?",
+      "stem": "Mitochondria are more abundant in:",
       "options": [
-        "FiO2 and PEEP",
-        "Tidal Volume and Respiratory Rate"
+        "Fat cells",
+        "Inactive cells",
+        "Active cells",
+        "Dead cells"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
-      "stem": "One of the following modes of ventilation reduces the work of breathing by overcoming the resistance created by ventilator tubing.",
+      "stem": "Which of the following is a special stain used for mitochondria?",
       "options": [
-        "Controlled Mandatory Ventilation",
-        "Synchronous Intermittent Mandatory Ventilation",
-        "Assist Control Mode",
-        "Pressure Support Mode"
+        "Silver stain",
+        "PAS",
+        "Janus green",
+        "Eosin"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The cristae in mitochondria are found in:",
+      "options": [
+        "Outer membrane",
+        "Golgi body",
+        "Inner membrane",
+        "Ribosomes"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Which of the following allows mitochondria to self-replicate?",
+      "options": [
+        "Cristae",
+        "Matrix granules",
+        "Presence of their own DNA",
+        "Calcium stores"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Which organelle is basophilic under the light microscope due to ribosomes?",
+      "options": [
+        "Smooth ER",
+        "Mitochondria",
+        "Golgi apparatus",
+        "Rough ER"
       ],
       "correct": 3
     },
     {
-      "stem": "Which one of the following modes of ventilation is triggered by time, limited by pressure and affects aspiration only?",
+      "stem": "The main function of rough endoplasmic reticulum is:",
       "options": [
-        "Controlled Mandatory Ventilation",
-        "Synchronous Intermittent Mandatory Ventilation",
-        "Assist Control Mode",
-        "Pressure Control Mode"
+        "Steroid synthesis",
+        "Protein synthesis",
+        "Calcium storage",
+        "Lipid metabolism"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "Which organelle is abundant in steroid-forming cells?",
+      "options": [
+        "Rough ER",
+        "Golgi apparatus",
+        "Smooth ER",
+        "Nucleolus"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "Which of the following is not a function of the smooth ER?",
+      "options": [
+        "Detoxification",
+        "Protein synthesis",
+        "Steroid hormone synthesis",
+        "Lipid metabolism"
+      ],
+      "correct": 1
+    },
+    {
+      "stem": "What is the function of matrix granules in mitochondria?",
+      "options": [
+        "ATP synthesis",
+        "Protein synthesis",
+        "Calcium storage",
+        "Lipid storage"
+      ],
+      "correct": 2
+    },
+    {
+      "stem": "The cell coat (glycocalyx) is involved in all of the following except:",
+      "options": [
+        "Adhesion",
+        "Recognition",
+        "Rejection",
+        "Energy production"
       ],
       "correct": 3
     },
     {
-      "stem": "Which of the following ventilator modes delivers a preset volume or pressure regardless of the patient’s inspiratory efforts?",
+      "stem": "Neonatal jaundice is related to:",
       "options": [
-        "Assist-Control Ventilation (A/C)",
-        "Controlled Mechanical Ventilation (CV)",
-        "Synchronous Intermittent Mandatory Ventilation (SIMV)",
-        "Pressure Support Ventilation (PSV)"
+        "Damaged mitochondria",
+        "Underdeveloped smooth ER in liver",
+        "Lack of rough ER in liver",
+        "Absence of Golgi apparatus"
       ],
       "correct": 1
     },
     {
-      "stem": "What is the recommended initial Fraction of Inspired Oxygen (FIO2) setting when starting mechanical ventilation?",
+      "stem": "Dwarfism in the given clinical note is caused by:",
       "options": [
-        "0.21 (21%)",
-        "0.5 (50%)",
-        "0.6 (60%)",
-        "1.0 (100%)"
-      ],
-      "correct": 3
-    },
-    {
-      "stem": "Which of the following is a disadvantage of Synchronous Intermittent Mandatory Ventilation (SIMV)?",
-      "options": [
-        "Hyperventilation",
-        "Increased work of breathing and respiratory muscle fatigue",
-        "Over-sedation",
-        "Lack of patient-triggered breaths"
-      ],
-      "correct": 1
-    },
-    {
-      "stem": "What is the primary purpose of Positive End-Expiratory Pressure (PEEP) in mechanical ventilation?",
-      "options": [
-        "Increase tidal volume",
-        "Prevent alveolar collapse during expiration",
-        "Reduce respiratory rate",
-        "Improve peak flow rate"
-      ],
-      "correct": 1
-    },
-    {
-      "stem": "Which mode of ventilation is used for weaning patients and allows them to breathe spontaneously while reducing ventilator support?",
-      "options": [
-        "Assist-Control Ventilation (A/C)",
-        "Synchronous Intermittent Mandatory Ventilation (SIMV)",
-        "Continuous Positive Airway Pressure (CPAP)",
-        "Pressure Support Ventilation (PSV)"
+        "Lack of growth hormone",
+        "Lack of protein synthesis",
+        "Absence of hormone receptors on cells",
+        "Underdeveloped mitochondria"
       ],
       "correct": 2
     }
